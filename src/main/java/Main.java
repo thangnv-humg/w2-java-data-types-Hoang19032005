@@ -16,9 +16,9 @@ public class Main {
         System.out.println(myDouble);
         System.out.println(myString);
         if(myInt > 10){
-            System.out.println("Greater than 10")
+            System.out.println("Greater than 10");
         }else {
-            System.out.println("Less or equal to 10")
+            System.out.println("Less or equal to 10");
         }
     }
 }
