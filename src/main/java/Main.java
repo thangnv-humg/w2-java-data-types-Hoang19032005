@@ -11,7 +11,7 @@ public class Main {
         // System.out.println(myString);
         int myInt = 42;
         double myDouble =3.14;
-        String myString ="Hello,Java!"
+        String myString ="Hello,Java!";
         System.out.println(myInt);
         System.out.println(myDouble);
         System.out.println(myString);
